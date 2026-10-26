@@ -1,0 +1,7 @@
+[submodule "manimgl"]
+	path = manimgl
+	url = https://github.com/3b1b/manim.git
+	shallow = true
+[submodule "combkit"]
+	path = combkit
+	url = https://github.com/newton313313/combkit.git
